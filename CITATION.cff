@@ -1,0 +1,13 @@
+@misc{syed_muhammad_2024_11179868,
+  author       = {Syed Muhammad, Hasanat and
+                  Irshad Ullah},
+  title        = {{Hybrid Multi-channel LSTM-BLSTM cascaded with 
+                   Modified Split Convolution for Short-Term Load
+                   Forecasting}},
+  month        = may,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.11179868},
+  url          = {https://doi.org/10.5281/zenodo.11179868}
+}
